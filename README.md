@@ -1,2 +1,4 @@
 # hello-world
-My new test repository to learn how GitHub works!
+Hey mensen,
+
+Ik ga vannacht keihard grinden voor programmeren maar eerst moet ik leren hoe GitHub werkt dus bij deze mijn eerste nieuwe branch met dit textdocumentje!
